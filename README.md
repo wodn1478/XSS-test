@@ -1,2 +1,2 @@
 # XSS-test
-&lt;a href=test>a&lt;/a>
+%22&lt;a href=test>a&lt;/a>
