@@ -1,2 +1,2 @@
 # XSS-test
-"'&lt;a href=test>a&lt;/a>
+"'&lt;a" href=test>a&lt;/a>
